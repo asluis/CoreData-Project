@@ -28,7 +28,6 @@ extension Movie {
         director ?? "Unknown director"
     }
 }
-
 extension Movie : Identifiable {
 
 }
