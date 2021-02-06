@@ -24,7 +24,6 @@ extension Movie {
         title ?? "Unknown title"
     }
     
-    
     var wrappedDirector:String{
         director ?? "Unknown director"
         
